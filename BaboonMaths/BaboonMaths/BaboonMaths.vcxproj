@@ -146,13 +146,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Code\src\main.cpp" />
+    <ClCompile Include="Code\src\Maths.cpp" />
     <ClCompile Include="Code\src\Matrix2x2.cpp" />
     <ClCompile Include="Code\src\Matrix3x3.cpp" />
     <ClCompile Include="Code\src\Matrix4x4.cpp" />
     <ClCompile Include="Code\src\Vector2.cpp" />
     <ClCompile Include="Code\src\Vector3.cpp" />
     <ClCompile Include="Code\src\Vector4.cpp" />
-    <ClCompile Include="Maths.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Code\include\BaboonMaths.h" />

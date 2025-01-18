@@ -36,7 +36,7 @@
     <ClCompile Include="Code\src\Matrix4x4.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="Maths.cpp">
+    <ClCompile Include="Code\src\Maths.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
