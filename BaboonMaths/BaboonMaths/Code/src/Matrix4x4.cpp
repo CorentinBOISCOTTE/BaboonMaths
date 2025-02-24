@@ -175,8 +175,8 @@ namespace Baboon
 			});
 		det += elements[0] * mat1.Determinant();
 		det -= elements[1] * mat2.Determinant();
-		det += elements[3] * mat3.Determinant();
-		det -= elements[4] * mat4.Determinant();
+		det += elements[2] * mat3.Determinant();
+		det -= elements[3] * mat4.Determinant();
 		return det;
 	}
 
